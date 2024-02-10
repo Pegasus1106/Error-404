@@ -23,5 +23,6 @@ Database: PostgreSQL
 Version Control: GitHub
 
 # Data
+The dataset is created from scratch as there isn't any appropriate dataset available online.
 
 
